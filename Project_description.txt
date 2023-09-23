@@ -1,0 +1,7 @@
+1. ============================
+
+install :- node JS
+create Project - npx create-react-app disney-clone
+
+2. Install npm add styled-components
+	npm add react-router-dom
